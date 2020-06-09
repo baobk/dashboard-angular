@@ -1,0 +1,12 @@
+
+.main-content {
+  left:2%;
+  justify-content: center;
+  top: 0;
+  bottom:0;
+  position: fixed;
+  /* Standard */
+  width: calc(100vw - 220px);
+  margin-left: 220px;
+  overflow-y: scroll;
+}
